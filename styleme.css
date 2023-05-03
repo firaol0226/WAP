@@ -1,8 +1,10 @@
 body {
   background-color: rgb(67, 68, 47);
+  background: url("https://media.istockphoto.com/id/620951116/photo/panoramic-view-of-colorful-sunrise-in-mountains.jpg?s=612x612&w=0&k=20&c=6IO5LBwLVSBPxQD4L5NlrxRkygeocjA5OKg8iKqvT58=");
+  background-size: cover;
 }
 #abtTitle {
-  color: rgb(80, 139, 194);
+  color: rgb(4, 42, 78);
   font-size: 50px;
   font-family: Trebuchet MS;
 }
@@ -12,7 +14,7 @@ c {
   font-style: italic;
 }
 h2 {
-  color: rgb(80, 139, 194);
+  color: rgb(11, 97, 176);
   font-family: Trebuchet MS;
 }
 li {
