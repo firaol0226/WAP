@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(67, 68, 47);
+}
+#abtTitle {
+  color: rgb(80, 139, 194);
+  font-size: 50px;
+  font-family: Trebuchet MS;
+}
+c {
+  color: yellow;
+  font-weight: bold;
+  font-style: italic;
+}
+h2 {
+  color: rgb(80, 139, 194);
+  font-family: Trebuchet MS;
+}
+li {
+  color: whitesmoke;
+  font-family: Courier New;
+}
+p {
+  color: whitesmoke;
+  font-family: Verdana;
+}
