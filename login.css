@@ -1,0 +1,13 @@
+.formEdit {
+  position: relative;
+  width: 80%;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.form-control {
+  height: 50px;
+  font-size: 20px;
+}
+.form-label {
+  font-size: 25px;
+}

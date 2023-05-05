@@ -1,0 +1,72 @@
+.nav {
+  background-color: rgb(60, 147, 240);
+  justify-content: space-between;
+  height: 10%;
+  padding: 10px;
+}
+.nav-item > #pp {
+  color: white;
+  border-left: 1px solid;
+  border-right: 1px solid;
+}
+
+.nav-link {
+  color: white;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+.nav-left {
+  display: flex;
+}
+.nav-right {
+  display: flex;
+  align-items: center;
+}
+.btn {
+  background-color: rgb(247, 244, 244);
+}
+.rowMain {
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.row {
+  position: relative;
+  margin-left: 5%;
+}
+.col-sm-3 {
+  position: relative;
+  margin-left: 67%;
+}
+.label {
+  margin-bottom: 7px;
+  margin-top: 25px;
+}
+#label2 {
+  color: rgb(177, 176, 175);
+  margin-top: 3px;
+}
+.form-control {
+  height: 45px;
+}
+#but {
+  background-color: white;
+}
+.btn-outline-primary {
+  border: 2px solid rgb(18, 22, 66);
+  color: rgb(14, 18, 63);
+}
+.btn-outline-secondary {
+  border: 2px solid rgb(189, 142, 12);
+  color: rgb(189, 142, 12);
+}
+.btn-outline-success {
+  border: 2px solid rgb(60, 147, 240);
+  color: rgb(60, 147, 240);
+}
+#descr {
+  font-size: 25px;
+}
+.btn {
+  height: 40px;
+}
