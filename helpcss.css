@@ -45,6 +45,7 @@ body {
 .log {
   display: flex;
   font-family: Arial;
+  /* border: solid 1px; */
 }
 .login {
   margin-top: 0.5%;
@@ -52,6 +53,7 @@ body {
   width: 50%;
   text-align: center;
   height: 100%;
+  /* border: solid 1px; */
 }
 .note {
   margin-top: 0.5%;
@@ -65,8 +67,8 @@ body {
   width: 50%;
   /* text-align: center; */
   display: inline-block;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 #c > p {
   text-align: left;
