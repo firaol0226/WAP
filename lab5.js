@@ -95,3 +95,23 @@ function printFibo(n, a, b){
 }
 console.log(printFibo(10,0,1));
 
+console.log("=================");
+function sayHi() {
+    console.log(this);
+    }
+    sayHi(); // undefined
+    
+ 
+
+
+
+
+
+
+    
+    
+
+
+
+
+
