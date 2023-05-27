@@ -1,0 +1,39 @@
+nav {
+  background-color: rgba(18, 18, 206, 0.5);
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  /* margin: 10px; */
+}
+.info div {
+  width: 250px;
+  margin-right: 20px;
+}
+.right-just {
+  display: flex;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.logo img {
+  width: 100px;
+  border-radius: 50%;
+  padding: 10px;
+}
+.form-control {
+  color: #f2f2f2;
+  background-color: #f2f2f2; /* Set the desired background color */
+}
+.log {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.place {
+  color: whitesmoke;
+}
+main {
+  background-image: url("https://marvel-b1-cdn.bc0a.com/f00000000270502/s19538.pcdn.co/wp-content/uploads/2021/06/ecommerce-1200x600.jpg");
+  background-size: cover;
+  height: 590px;
+}
